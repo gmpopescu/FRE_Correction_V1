@@ -1,7 +1,6 @@
 # FRE_Correction_V1
 Shiny app for the correction of freshwater reservoir of 14C dates, in contexts where the maximum FRE of the region is known.
 
-
 The Carbon-14 in freshwater reservoirs (such as lakes, rivers, and wetlands) may have a different concentration of Carbon-14 compared to the atmosphere. This is because the Carbon-14 in the reservoirs comes from a combination of atmospheric Carbon-14 and Carbon-14 from the decay of organic matter within the reservoirs. As a result, organisms that live in or near freshwater reservoirs may have a different Carbon-14 concentration than organisms that live in the open ocean or on land.
 
 In the case of human bone samples, if the individual consumed freshwater fish or other aquatic organisms, the carbon-14 in the bone would reflect the lower carbon-14 concentration in the freshwater reservoir, rather than the atmospheric concentration. This can lead to inaccuracies in radiocarbon dating, as the age of the bone may appear older than it actually is. The magnitude of the effect depends on the location and age of the freshwater reservoir, as well as the specific diet of the individual (Cook et al. 2001; Cook et al. 2002; Lanting and Van Der Plicht 1998; Philippsen 2013).
