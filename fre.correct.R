@@ -1,5 +1,5 @@
 # This code defines a shiny app with a UI and server component.
-# This app's purpose is to help user correct the freshwater reservoir effect of radiocarbon dates 
+# This app is purpose is to help user correct the freshwater reservoir effect of radiocarbon dates 
 # when the maximum (FRE) of the region is known.
 # The UI component contains input widgets for the maximum FRE of the region, the maximum FRE standard 
 # deviation, the 14C date standard deviation, the percentage of aquatic resource in the diet, and its
